@@ -25,6 +25,3 @@ const getCines = async()=>{
 
 }
 getCines()
-/*
-                
-*/
